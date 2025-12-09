@@ -1,5 +1,5 @@
 <h3 align="center">👋 Hi, I'm Cláudia Faria</h3>
-**Computer Science & Engineering MSc Student @ Universidade Nova de Lisboa**
+<h3 align="center">Computer Science & Engineering MSc Student @ Universidade Nova de Lisboa</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
