@@ -10,26 +10,6 @@
 <a href="https://linkedin.com/in/claudiasfaria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="claudiasfaria" height="30" width="40" /></a>
 </p>
 
-
-
----
-
-## 📌 **About Me**
-
-```javascript
-const claudia = {
-  education: "MSc Computer Engineering @ NOVA University Lisbon",
-  specialization: "Programming Languages & Software Systems",
-  interests: [
-    "System Software Engineering",
-    "Web Application Development", 
-    "Distributed Systems",
-    "Software Architecture"
-  ],
-  currentFocus: "Preparing for Summer 2026 Internships",
-  funFact: "Federated equestrian athlete with 9 years of competitive experience"
-};
-
 ## 🎯 Focus Areas
 - Programming Languages & Software Systems
 - Web Application Development
