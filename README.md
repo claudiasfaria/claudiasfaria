@@ -1,16 +1,12 @@
-## Hi there 👋
+# 👋 Hi, I'm Claudia Faria
+**Computer Science & Engineering MSc Student @ Universidade Nova de Lisboa**
 
-<!--
-**claudiasfaria/claudiasfaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎯 Focus Areas
+- Programming Languages & Software Systems
+- Web Application Development
+- System Software Engineering
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technical Stack
+**Languages:** C, Python, Java, JavaScript, OCaml, SQL  
+**Web:** React, CSS
+**Tools:** Git, Docker, MySQL, Supabase, Spring
