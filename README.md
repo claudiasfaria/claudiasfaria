@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="30">
+</p>
+
 <h3 align="center">👋 Hi, I'm Cláudia Faria</h3>
 <h3 align="center">Computer Science & Engineering MSc Student @ Universidade Nova de Lisboa</h3>
 
