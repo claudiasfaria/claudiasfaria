@@ -1,11 +1,30 @@
 
 <h3 align="center">  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Hii, I'm Cláudia Faria</h3>
-<h3 align="center">Computer Science & Engineering MSc Student @ Universidade Nova de Lisboa</h3>
+<h3 align="center">🎓 MSc in Computer Science & Engineering | Universidade Nova de Lisboa</h3>
+<p align="center">
+  <i>Specializing in Programming Languages and Software Systems, with a minor in Software Engineering</i>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/claudiasfaria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="claudiasfaria" height="30" width="40" /></a>
 </p>
+
+
+## 📌 **About Me**
+javascript
+const claudia = {
+  education: "MSc Computer Engineering @ NOVA University Lisbon",
+  specialization: "Programming Languages & Software Systems",
+  interests: [
+    "System Software Engineering",
+    "Web Application Development", 
+    "Distributed Systems",
+    "Software Architecture"
+  ],
+  currentFocus: "Preparing for Summer 2026 Internships",
+  funFact: "Federated equestrian athlete with 9 years of competitive experience"
+};
 
 ## 🎯 Focus Areas
 - Programming Languages & Software Systems
