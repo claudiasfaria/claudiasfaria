@@ -11,8 +11,12 @@
 </p>
 
 
+
+---
+
 ## 📌 **About Me**
-javascript
+
+```javascript
 const claudia = {
   education: "MSc Computer Engineering @ NOVA University Lisbon",
   specialization: "Programming Languages & Software Systems",
