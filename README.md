@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Claudia Faria
+# 👋 Hi, I'm Cláudia Faria
 **Computer Science & Engineering MSc Student @ Universidade Nova de Lisboa**
 
 ## 🎯 Focus Areas
